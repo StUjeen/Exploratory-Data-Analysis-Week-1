@@ -1,9 +1,13 @@
 # Exploratory-Data-Analysis-Week-1
 Peer-graded assignment
 
-This repo includes 4 file-pairs
- which produced based on a dataset from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, here was used the “Individual household electric power consumption Data Set”.
+This repo includes 4 file-pairs which produced based on a dataset from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, here was used the “Individual household electric power consumption Data Set”.
 
+Files relation:
+Plot1.R includes code to produce Plot1.png
+Plot2.R includes code to produce Plot2.png
+Plot3.R includes code to produce Plot3.png
+Plot4.R includes code to produce Plot4.png
 
 Dataset: Electric power consumption [20Mb]
 Description: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
